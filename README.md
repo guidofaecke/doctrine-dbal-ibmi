@@ -2,7 +2,7 @@
 
 Doctrine DBAL module for DB2 on the IBM i platform.
 
-Based on the original work by [@cassvail](https://github.com/cassvail) in [doctrine/dbal#910](https://github.com/doctrine/dbal/pull/910).
+Based on the original work by [@cassvail](https://github.com/cassvail) in [doctrine/dbal#910](https://github.com/doctrine/dbal/pull/910) and all additions by [@asgrim](https://github.com/alanseiden/doctrine-dbal-ibmi)
 
 # Info
 
