@@ -1,10 +1,12 @@
 # doctrine-dbal-ibmi
 
-[![Build Status](http://idevusr016.idevcloud.com:9090/buildStatus/icon?job=doctrine-dbal-ibmi)](http://idevusr016.idevcloud.com:9090/job/doctrine-dbal-ibmi)
-
 Doctrine DBAL module for DB2 on the IBM i platform.
 
 Based on the original work by [@cassvail](https://github.com/cassvail) in [doctrine/dbal#910](https://github.com/doctrine/dbal/pull/910).
+
+# Info
+
+Starting with version 1.0, we replace the `ROW_NUMBER()` function with `limit` and `offset`, as it is available in V7R3.
 
 # Usage
 
