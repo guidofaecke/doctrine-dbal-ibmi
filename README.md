@@ -13,7 +13,7 @@ Starting with version 1.0, we replace the `ROW_NUMBER()` function with `limit` a
 First, install with Composer:
 
 ```
-$ composer require alanseiden/doctrine-dbal-ibmi
+$ composer require guidofaecke/doctrine-dbal-ibmi
 ```
 
 ## Configuration
