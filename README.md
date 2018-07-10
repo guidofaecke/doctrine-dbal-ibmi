@@ -11,7 +11,7 @@ Based on the original work by [@cassvail](https://github.com/cassvail) in [doctr
 First, install with Composer:
 
 ```
-$ composer require alanseiden/doctrine-dbal-ibmi
+$ composer require guidofaecke/doctrine-dbal-ibmi
 ```
 
 ## Configuration
